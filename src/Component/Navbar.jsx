@@ -82,9 +82,10 @@ export default function Navbar(props) {
       link: "/",
       name: "Home",
     },
+    /*{
+     name: "Events",
+    },*/
     {
-      name: "Events",
-    },{
       link:"/Workshops",
       name:"Workshops"
     },
