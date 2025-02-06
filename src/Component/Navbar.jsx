@@ -366,7 +366,7 @@ export default function Navbar(props) {
                     <Link color={"inherit"} underline="none" to="/">
                       <Box
                         component="img"
-                        src="./Assets/logo.png"
+                        src="../Assets/logo.png"
                         sx={{
                           width:"18%",
                           scale: 1.0,
@@ -393,7 +393,7 @@ export default function Navbar(props) {
               <ImageListItem sx={{ display: ["none", "none", "none", "flex"] }}>
                 <Box
                   component="img"
-                  src="./Assets/logo.png"
+                  src="../Assets/logo.png"
                   sx={{
                     width: "6%",
                     marginTop: "15px",

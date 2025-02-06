@@ -17,7 +17,7 @@ const Home = () => {
             </Box>
             <Box sx={{ bgcolor: "#000212", py: 10 }}>
                 <TitleWithDescription
-                    title="Visit our Clusters"
+                    title="Visit our Clusters."
                 />
                 <Clusters />
             </Box>

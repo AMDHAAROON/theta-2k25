@@ -253,38 +253,8 @@ const Carousel = () => {
             width: "300px",
           }}
         >
-          <IconButton
-            onClick={prevSlide}
-            sx={{
-              width: "40px",
-              height: "40px",
-              borderRadius: "50%",
-              backgroundColor: "rgba(238, 238, 238, 0.25)",
-              color: "#fff",
-              "&:hover": {
-                backgroundColor: "#fff",
-                color: "#000",
-              },
-            }}
-          >
-            <ArrowBackIos />
-          </IconButton>
-          <IconButton
-            onClick={nextSlide}
-            sx={{
-              width: "40px",
-              height: "40px",
-              borderRadius: "50%",
-              backgroundColor: "rgba(238, 238, 238, 0.25)",
-              color: "#fff",
-              "&:hover": {
-                backgroundColor: "#fff",
-                color: "#000",
-              },
-            }}
-          >
-            <ArrowForwardIos />
-          </IconButton>
+          
+       
         </Box>
         <Box
           sx={{

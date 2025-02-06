@@ -1,10 +1,10 @@
-import { Box, Button, Divider, Typography } from '@mui/material';
+import { Box, Button,  Typography } from '@mui/material';
 import React from 'react';
 import Navbar from '.././Component/Navbar';
 import { Link } from 'react-router-dom';
 import ArrowRightAltIcon from "@mui/icons-material/ArrowRightAlt";
 import Footer from '.././Component/Footer';
-import EventNavbar from '.././Component/EventNavbar';
+
 
 const Workshops = () => {
     const workshopData = [
