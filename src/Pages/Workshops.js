@@ -16,7 +16,7 @@ const workshopData = [
     venue: "Venue: Auditorium",
     chiefGuest: "Dr.M.Dhanarajan",
     registrationLink: "https://forms.gle/d3eLwrQAurhRhYJz9",
-    image: './assets/aiwrkshop.jpg',
+    image: '/assets/aiwrkshop.jpg',
     description: "Dive into the future of technology with this workshop focusing on AI-powered solutions, practical use cases, and hands-on development techniques.",
   },
   {
@@ -27,7 +27,7 @@ const workshopData = [
     venue: "Venue: Auditorium",
     chiefGuest: "Dr.E.Vinoth",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSe4Qq4hE7tdMSrrbk-3kEfgdL4iWwosdFTViNM_pfbOhnmeSw/viewform",
-    image: `${process.env.PUBLIC_URL}/assets/wonderla.jpeg`, 
+    image: '/assets/wonderla.jpeg', 
     description: "Experience the wonders of law and technology combined, featuring interactive sessions, expert panels, and innovative demonstrations.",
   },
   {
