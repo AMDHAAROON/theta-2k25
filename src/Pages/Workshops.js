@@ -15,7 +15,7 @@ const workshopData = [
     venue: "Venue: Auditorium",
     chiefGuest: "Dr.M.Dhanarajan",
     registrationLink: "https://forms.gle/d3eLwrQAurhRhYJz9",
-    image: "./assets/aiwrkshop.jpg",
+    image: "/assets/aiwrkshop.jpg",
     description: "Dive into the future of technology with this workshop focusing on AI-powered solutions, practical use cases, and hands-on development techniques.",
   },
   {
