@@ -26,7 +26,7 @@ const workshopData = [
     venue: "Venue: Auditorium",
     chiefGuest: "Dr.E.Vinoth",
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSe4Qq4hE7tdMSrrbk-3kEfgdL4iWwosdFTViNM_pfbOhnmeSw/viewform",
-    image: "./assets/wonderla.jpeg",
+    image: `${process.env.PUBLIC_URL}/assets/wonderla.jpeg`, 
     description: "Experience the wonders of law and technology combined, featuring interactive sessions, expert panels, and innovative demonstrations.",
   },
   {

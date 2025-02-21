@@ -87,7 +87,7 @@ export default function Navbar(props) {
     },*/
     {
       link:"/Workshops",
-      name:"Workshopsss"
+      name:"Workshopss"
     },
     {
       link: "/ContactUs",
