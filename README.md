@@ -36,11 +36,11 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AMDHAAROON/theta-1.git
+   git clone https://github.com/AMDHAAROON/theta-2k25.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd theta-1
+   cd theta-2k25
    ```
 3. Install dependencies:
    ```sh
